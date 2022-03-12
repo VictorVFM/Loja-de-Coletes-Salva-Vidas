@@ -1,0 +1,116 @@
+* {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: white;
+}
+
+.containerpro {
+    width: 300px;
+    height: 400px;
+    margin-right: 90px;
+    
+   
+}
+
+#container {
+    display: flex;
+    justify-content: center;
+    padding-bottom: 180px;
+    margin-left: 0px;
+}
+
+#container {
+    margin-left: 0;
+}
+
+#container1 {
+    padding-top: 60px;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 15%;
+}
+
+.containerpro2 {
+    position: relative;
+}
+
+#container>p {
+    padding-bottom: 180px;
+    margin: 0;
+}
+
+#div {
+    justify-content: center;
+    text-align: center;
+    margin: 0px;
+    margin-left: 25%;
+    padding-top: 50px;
+    padding-right: 3%;
+}
+
+#filtro {
+    margin-top: 45px;
+    margin-left: 20px;
+    float: left;
+}
+
+details>p {
+    color: whitesmoke;
+}
+
+#filtro>p {
+    color: white;
+}
+
+
+
+
+
+h4 {
+    color: white;
+    font-size: 10px;
+}
+
+.carousel-item>img {
+    margin: 50px 25%;
+    width: 1320px;
+    height: 416px;
+}
+
+.containerpro>p {
+    color: white;
+    padding-bottom: 0px;
+}
+
+.containerpro>img {
+    padding-bottom: 20px;
+}
+
+.containerpro>a>button {
+    padding: 10px 10px 10px 10px;
+    background-color: green;
+    border-radius: 5%;
+    color: white;
+    font-weight: bold;
+    border: 1px solid white;
+    border-radius:20% ;
+}
+
+.containerpro>a>button:hover {
+    background-color: greenyellow;
+    color: black;
+}
+
+details {
+    padding: 0px;
+    margin-bottom: 0px;
+    display: flex;
+}
+
+#ul{
+    padding: 0px;
+    margin: 18px;
+}
+
+.carousel-item > img{
+    border: 2px solid white;
+}

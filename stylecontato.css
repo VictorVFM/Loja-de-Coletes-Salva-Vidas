@@ -1,0 +1,109 @@
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+    background-color: black;
+    overflow-x: hidden;
+}
+
+.text {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 20px;
+    margin-left: 260px;
+    
+    
+ 
+}
+
+.text2 {
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 50px;
+    margin-bottom: 30px;
+    margin-top: -22px;
+}
+
+.redes-sociais ul {
+    display: flex;
+    margin-left: 235px;
+    margin-top: 20px;
+}
+
+.redes {
+    display: flex;
+    width: 49px;
+    height: 49px;
+    margin-left: 40px;
+}
+
+.p {
+    color: white;
+}
+
+.i {
+    color: white;
+}
+
+.field {
+    padding: 10px;
+    margin-bottom: 15px;
+    width: 450px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+textarea {
+    height: 150px;
+}
+
+.content {
+    position: relative;
+    justify-content: center;
+    top: 35%;
+    left: 45%;
+    
+}
+
+.form {
+    display: flex;
+    flex-direction: column;
+}
+
+.contato {
+    width: 100%;
+    max-width: 500px;
+}
+
+#button {
+    background-color: rgb(151, 9, 9);
+    width: 150px;
+    color: white;
+}
+
+#button:hover {
+    background:rgb(206, 49, 49);
+    color: white;
+    cursor: pointer;
+}
+
+.ok {
+    position: absolute;
+    left: 30%;
+    top: 75%;
+   
+}
+ul{
+    list-style-type: none;
+}
+#myfooter{
+    position: absolute;
+    bottom: 0px;
+}
+
+#juncao{
+align-items: center;
+
+margin-top:-100px;
+}
